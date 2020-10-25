@@ -1,0 +1,6 @@
+KONTAKTY
+3
+Meno; Telefón; Mobil; Email
+Jaroslav Beňo; 048/4199441; 0909111159; jaroslav.beno2@gmail.com
+Štefan Levoča; 012/3456789; 0909123456; stevo.levoca@post.sk
+Fero Ďuro; ; 0911456789; fero@duro.sk

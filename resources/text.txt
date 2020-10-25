@@ -1,0 +1,2 @@
+Toto 110 je text, ktorý 150 budem spracovať.
+Toto je druhý riadok textu.

@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/SimpleORMFramework.jar!/sk/jaro/simpleormframework/reflection/ObjectReflector.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/SimpleORMFramework/out/artifacts/SimpleORMFramework_jar/SimpleORMFramework.jar!/sk/jaro/simpleormframework/reflection/ObjectReflector.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/SimpleORMFramework/src/main/java/sk/jaro/fiktivnyprogram/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/SimpleORMFramework/src/main/java/sk/jaro/fiktivnyprogram/entity/Osoba.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/SimpleORMFramework/src/main/java/sk/jaro/simpleormframework/dbaccess/DatabaseAccess.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/SimpleORMFramework/src/main/java/sk/jaro/simpleormframework/dbaccess/PropertiesReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/SimpleORMFramework/src/main/java/sk/jaro/simpleormframework/dbaccess/SormManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../LambdaVyrazy/src/sk/jaro/priklad/ComplexExampleNew.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../LambdaVyrazy/src/sk/jaro/priklad/ComplexExampleOld.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../LambdaVyrazy/src/sk/jaro/priklad/ComplexExampleStream.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../LambdaVyrazy/src/sk/jaro/vynimky/ExceptionHandling.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../LambdaVyrazy/src/sk/jaro/vynimky/Osoba.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../crt/crtng/resources/whatsnew.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../crt/crtng/src/java/sk/posam/crtng/client/common/components/moznostiotazky/FcMoznostiOtazky.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../crt/crtng/src/java/sk/posam/crtng/client/common/components/moznostiotazky/FcMoznostiOtazky_sk.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../crt/crtng/src/java/sk/posam/crtng/client/ep/ciselniky/dotaznik/otazkadotaznika/form/OtazkaDotaznikaForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../crt/crtng/src/java/sk/posam/crtng/client/ep/partneri/partner/form/VyhladanieKlientaForm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../crt/crtng/src/java/sk/posam/crtng/middle/dto/ep/ciselniky/dotaznik/DtoMoznostOdpovede.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../crt/crtng/src/java/sk/posam/crtng/middle/service/ep/impl/SpravaPartnerovImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../crt/crtng/src/java/sk/posam/crtng/server/ep/ciselniky/dotaznik/TypUdajZoZmluvy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/DTOPriloha.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/Daco.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/java2/hotove/DebugovanieAStackTrace.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/java2/hotove/OwnException/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/java2/hotove/RegularneVyrazy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/java2/hotove/Vynimky.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/java2/hotove/anotacie/TargetAnotation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/java2/hotove/collections/Lists.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/java2/hotove/collections/Sets.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/java2/hotove/generika/BoundedType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/java2/hotove/lambda/LambdaPriklady.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/java2/hotove/lambda/Strems.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/java2/numbersCharsStrings/Numbers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/JavaAdvanceKurz/src/sk/jaro/java2/utils/Pes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/SimpleORMFramework/src/sk/jaro/fiktivnyprogram/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/SimpleORMFramework/src/sk/jaro/simpleormframework/dbaccess/DatabaseAccess.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/SimpleORMFramework/src/sk/jaro/simpleormframework/dbaccess/PropertiesReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/SimpleORMFramework/src/sk/jaro/simpleormframework/dbaccess/SormManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../intelliJ Idea workspace jaro/SimpleORMFramework/src/sorm.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../mo etapa 2/csms_v2/csms/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../mo etapa 2/csms_v2/csms/src/main/java/sk/enel/csms/dao/DocumentsDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../mo etapa 2/csms_v2/csms/src/main/java/sk/enel/csms/servlets/Versions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../mo etapa 2/csms_v2/csms/src/main/java/sk/enel/csms/valueObjects/PendingIssue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../prolik offline/ScribusDataForCalendarGenerator/src/sk/jaro/scribus/ScribusKalendarGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../prolik offline/amc-prolik-offline/prolik-client-up/src/test/java/test/profile/TestUpProfileDownloader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/output.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/output.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/resources/text.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/java/lang/Integer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/resources/text.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/AnotherInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/BoxingUnboxing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/Chars.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/DatesTimes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/DebugovanieAStackTrace.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/DefaultMethodInteface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/Exceptions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/ExceptionsVynimky.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/KonfliktyVInterfaci.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/Numbers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/ObjectClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/ReadingFromConsole.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/StaticImport.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/StringFormat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/Strings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/afterLambda/MethodReference.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/afterLambda/NewIteration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/afterLambda/UtilClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/anotacie/Author.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/anotacie/JednoHodnotova.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/anotacie/PrikladAnotacii.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/anotacie/TargetAnotation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/anotacie/Vyrobca.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/anotacie/Vyrobcovia.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/collections/CollectionsExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/collections/Lists.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/collections/Maps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/collections/Sets.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/collections/Sort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/database/Dao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/database/DatabaseConnect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/database/OsobaDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/database/PropertiesReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/dateTime/DatesTimes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/BoundedType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/Box.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/GenericBox.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/GenericM.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/Inference.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/LowerBounded.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/MultipleBound.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/MultipleGenericBox.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/RawType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/Think.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/Unbounded.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/UpperBounded.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/Wildcards.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/a">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/generics/wildcard.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/inputOutput/ByteStreams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/inputOutput/CharacterStreams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/inputOutput/DataStreams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/inputOutput/FileManipulation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/inputOutput/FileWork.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/inputOutput/LineStreams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/inputOutput/ObjectStreams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/inputOutput/ScannerExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/inputOutput/VarArgs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/ClosureExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/Example.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/FunctionalInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/HelloWord.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/HelloWord2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/HelloWordFunctions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/Lambda.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/LambdaExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/LambdaExamples2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/LambdaExamples3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/LambdaExamples4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/LambdaExamples5.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/LambdaVnutorneTriedy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/NewLoop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/lambdas/ThisReference.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/objects/NejakyPes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/objects/NejakyPesSerialized.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/objects/Osoba.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/objects/Pes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/ownException/InvalidAgeException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/ownException/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/ownException/NameTooLongException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/reflection/ClassReflection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/reflection/ReflectionUse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/regex/Prehladavanie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/regex/RegularExpressions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/streams/AkoGenerovatStream.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/streams/LineNewStream.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/streams/Optional.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/streams/OptionalExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/streams/Stream.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/utils/Auto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/utils/Osoba.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/utils/OsobaOptional.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/utils/package-info.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/vnutorne/AnonymnaTriedaUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/vnutorne/ShadowTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/vnutorne/VnoreneTriedyUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/vnutorne/VnoreneTriedyUzatvarajucaTrieda.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/vnutorne/VnutorneVnoreneTriedy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/vnutorne/nevnorenePriklad/Hra.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/vnutorne/nevnorenePriklad/Hrac.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/vnutorne/nevnorenePriklad/SkoreHraca.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/vnutorne/rozhranie/IVypisNaKonzolu.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/vnutorne/rozhranie/VypisNaKonzoluImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/vnutorne/vnorenePriklad/Hrac.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sk/jaro/vnutorne/vnorenePriklad/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/sorm.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../prolik - trunk/resources/server/vyzvy pre simulovanie zaslania z uniusu/PROLIK NG/CASCO POISTENIE spiner2 1.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../prolik - trunk/sources/sk/posam/prolik/middle/service/impl/JadroImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../prolik - trunk/sources/sk/posam/prolik/middle/service/impl/ObhliadkaImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../prolik - trunk/sources/sk/posam/prolik/prolikng/middle/integracie/ProlikNgImportObhliadok.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../prolik - trunk/test/sk/posam/prolik/prolikng/middle/integracie/ProlikNgImportObhliadokTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

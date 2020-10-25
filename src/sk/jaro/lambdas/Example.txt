@@ -1,0 +1,10 @@
+
+    HelloWord helloWord3 = new HelloWord() {
+        @Override
+        public void sayHello() {
+            System.out.println("HelloWord impls inner anonymous class");
+        }
+    };
+
+
+    HelloWord helloWord3 = () -> System.out.println("HelloWord impls inner anonymous class");
